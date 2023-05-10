@@ -13,7 +13,7 @@ THANK YOU AND HAVE A NICE SUMMER!
 
 import pandas as pd
 import streamlit as st
-#import plotly as px
+import plotly as px
 import pydeck as pdk
 import numpy as np
 #The package plotly is a package that we did not use in class.
